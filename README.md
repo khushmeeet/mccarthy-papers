@@ -2,7 +2,7 @@
 
 I am a huge fan of John McCarthy and his work. So this repository contains the papers that I have found on the internet. This is not a complete list. This repositiory, for now, contains papers and slides related to AI and LISP. Papers are taken from stanford website and others.
 
-## Papers (links will be added soon)
+## Papers
 
 * [The advice taker revisited - Slides](advice03-sli.pdf)
 * [Artificial Intelligence, Logic and Commonsense](ailogic.pdf)
