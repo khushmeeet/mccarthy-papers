@@ -28,7 +28,7 @@ I am a huge fan of John McCarthy and his work. So this repository contains the p
 * [What Consciousness does a Robot Need? - Slides](papers/consciousness-sli.pdf)
 * [Notes on Formalizing Context](papers/context3.pdf)
 * [Uses of CounterFactuals - Slides](papers/counterfactuals-sli.pdf)
-* [Creative Solutions to the Problems - SLides](papers/creative-sli.pdf)
+* [Creative Solutions to the Problems - Slides](papers/creative-sli.pdf)
 * [Elephant 2000: A Programming Language based on Speech Acts](papers/elephant.pdf)
 * [Robots can be made with Human-like emotions - but shouldn't be - Slides](papers/emotions-sli.pdf)
 * [Epistemological Problems of Artifical Intelligence](papers/epistemological.pdf)
